@@ -1,0 +1,7 @@
+C:\Users\Darek\source\repos\PESEL_INF04\PESEL_INF04\bin\Debug\PESEL_INF04.exe.config
+C:\Users\Darek\source\repos\PESEL_INF04\PESEL_INF04\bin\Debug\PESEL_INF04.exe
+C:\Users\Darek\source\repos\PESEL_INF04\PESEL_INF04\bin\Debug\PESEL_INF04.pdb
+C:\Users\Darek\source\repos\PESEL_INF04\PESEL_INF04\obj\Debug\PESEL_INF04.csproj.AssemblyReference.cache
+C:\Users\Darek\source\repos\PESEL_INF04\PESEL_INF04\obj\Debug\PESEL_INF04.csproj.CoreCompileInputs.cache
+C:\Users\Darek\source\repos\PESEL_INF04\PESEL_INF04\obj\Debug\PESEL_INF04.exe
+C:\Users\Darek\source\repos\PESEL_INF04\PESEL_INF04\obj\Debug\PESEL_INF04.pdb
